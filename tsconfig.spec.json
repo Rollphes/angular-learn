@@ -6,5 +6,5 @@
     "outDir": "./out-tsc/spec",
     "types": ["jasmine"]
   },
-  "include": ["node_modules", "src/**/*.ts"]
+  "include": ["src/**/*.ts"]
 }
